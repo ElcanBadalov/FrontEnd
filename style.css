@@ -1,0 +1,70 @@
+body {
+    font-size: 15pt;
+    background-color: #00FFD6;
+}
+
+.developer{
+  position: absolute;
+  left: 0px; right: 0px; top: 0px; bottom: 0px;
+  margin-top: 0px;
+  width: 100%;
+  height: 188px;
+  background-color: #fff;
+  background-image: url(../devh1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+
+#dev{
+  font-size: 90px;
+  font-family: Arial;
+  color: #fff;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.foto{
+  width: 650px;
+  height: 400px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.foto1{
+  width: 650px;
+  height: 400px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.kec{
+  color: black;
+}
+
+.foto2{
+  width: 650px;
+  height: 400px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.foto3{
+  width: 650px;
+  height: 400px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.foto4{
+  width: 650px;
+  height: 400px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.block{
+  position: absolute;
+  margin: auto;
+  background-color: #444666;
+}
